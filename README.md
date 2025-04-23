@@ -2,7 +2,7 @@
 
 ## 📝 Descripción
 
-Este repositorio contiene el trabajo de mi **Doctorado** en **Ingeniería Eléctrica, Electrónica y Automática** en la **Universidad Carlos III de Madrid**, defendido en **2014**.  
+Este repositorio contiene el trabajo de mi **Doctorado** en **Ingeniería Eléctrica, Electrónica y Automática** en la **Universidad Carlos III de Madrid** _(RoboticsLab)_, defendido en **2014**.  
 La tesis se centra en el desarrollo y aplicación de un algoritmo de optimización para la **conformación temporal de pulsos láser ultracortos**, buscando mejorar la eficiencia de procesos de interacción láser-materia.
 
 **Motivación**:  
